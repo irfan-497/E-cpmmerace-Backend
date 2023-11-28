@@ -1,0 +1,11 @@
+module.exports={
+    db:{
+        "database":"e-commerace",
+        "username":"postgres",
+        "password":"1111",
+        "host":"localhost",
+        "port":5432,
+        "dialect":"postgres"
+    },
+    "jwtSecret":"aaaa"
+}
